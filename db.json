@@ -1,3 +1,7 @@
-{ "produtos" : "PRODUTO TESTE",
-  "preco" : 5.59
+{ "id" : "1",
+  "urlImageEvent" : "",
+  "description" : "Esse é um teste para a tela de feed com uma lista de cards",
+  "group" : "TESTE GROUP",
+  "urlImageGroup" : "",
+  "postData" : "05 ago 2019"
 }
